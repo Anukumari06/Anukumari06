@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Multiple Disease Prediction Using Machine Learning and Deep Learning**
+- 🔭 I’m currently working on **DATA ENGINEERING PROJECT USING PySPARK**
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **PYSPARK**
 
-- 💬 Ask me about **Python, Machine Learning, HTML,CSS, JavaSript,PowerBI,SQL, MySQL**
+- 💬 Ask me about **Python, Machine Learning, HTML,CSS, JavaSript(BASIC),SQL, MySQL,PowerBI,PySPARK,**
 
 - 📫 How to reach me **www.linkedin.com/in/anu-kumari-584512227**
 
