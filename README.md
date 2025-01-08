@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Anu Kumari</h1>
-<h3 align="center">A passionate frontend developer and Data Engineering from India</h3>
+<h3 align="center">A passionate Data Analyst and Data Engineering from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anukumari06&label=Profile%20views&color=0e75b6&style=flat" alt="anukumari06" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DATA ENGINEERING PROJECT USING PySPARK**
+- 🔭 I’m currently working on **DATA ANALYSIS PROJECT USING POWERBI**
 
-- 🌱 I’m currently learning **PYSPARK**
+- 🌱 I’m currently learning **POWERBI**
 
 - 💬 Ask me about **Python, Machine Learning, HTML,CSS, JavaSript(BASIC),SQL, MySQL,PowerBI,PySPARK,**
 
